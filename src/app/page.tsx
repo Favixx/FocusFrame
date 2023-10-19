@@ -12,12 +12,14 @@ const page = () => {
   return (
     <>
       <Header />
-      <Hero />
-      <AboutUs />
-      <OurCourses />
-      <OurMentors />
-      <SignUp />
-      <Reviews />
+      <main>
+        <Hero />
+        <AboutUs />
+        <OurCourses />
+        <OurMentors />
+        <SignUp />
+        <Reviews />
+      </main>
       <Footer />
     </>
   );
