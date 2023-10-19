@@ -11,7 +11,7 @@ import hero_p from "../../../public/images/mobile/hero_p_mobile.png"
 
 const Hero = () => {
   return (
-    <section className="w-[335px] rounded-[30px] bg-[#1D1D1D] px-5 pt-10 m-auto">
+    <section className="max-w-[335px] rounded-[30px] bg-[#1D1D1D] px-5 pt-10 m-auto">
       <div className="mb-[31px]">
         <h1 className="text-[40px] font-medium mb-5 leading-[44px] tracking-[-1.6px]">
           Discover the magic of{" "}
